@@ -2,7 +2,9 @@ Environment
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/05aeb40e-07af-4b5d-9e04-5703bbc5388f" />
 
 result
+
 <img width="613" height="708" alt="image" src="https://github.com/user-attachments/assets/a18489eb-1bdb-4a1d-a8f4-ad9073bd11bb" />
+
 [INFO]: Publishing 5 initial center markers.
 [INFO]:   - Initial Center #0: [-1.43, -1.68, 0.20]
 [INFO]:   - Initial Center #1: [2.95, 2.55, 0.96]
